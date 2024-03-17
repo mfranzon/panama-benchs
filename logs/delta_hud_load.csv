@@ -1,0 +1,32 @@
+,,"Delta OSS 
+(2.0.0rc1: 2_12)
+(16 executors / 10 cores / 40Gb)","Hudi (fd7d25ab63 master, Spark Datasource)
+ (16 executors / 10 cores / 40Gb)"
+,,Execution time (ms),Execution time (ms)
+call_center,,32474,13164
+catalog_page,,11769,10436
+catalog_returns,,80707,84662
+catalog_sales,,660488,690123
+customer,,29447,26093
+customer_address,,65984,57226
+customer_demographics,,9286,10003
+date_dim,,6329,6202
+household_demographics,,4364,5249
+income_band,,4065,5009
+inventory,,21915,38756
+item,,9808,8845
+promotion,,4206,4696
+reason,,4640,4634
+ship_mode,,3895,4271
+store,,4918,5126
+store_returns,,86112,96428
+store_sales,,800589,854555
+time_dim,,5226,5095
+warehouse,,4074,4186
+web_page,,4881,4599
+web_returns,,40050,47310
+web_sales,,326113,331925
+web_site,,3846,5177
+,,,
+,,Delta (2.0.0_rc1) (s),Hudi (master) (s)
+Total,,2221,2319

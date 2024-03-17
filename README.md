@@ -1,2 +1,3 @@
-# panama-benchs
+# Panama Benchmarks
+
 Benchmarks of Panama

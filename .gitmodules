@@ -1,0 +1,4 @@
+[submodule "panama-benchs"]
+	path = panama-benchs
+	url = https://github.com/alexeykudinkin/delta.git
+	branch = ak/dlt-bcnh-fix
